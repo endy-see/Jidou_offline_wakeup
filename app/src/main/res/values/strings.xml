@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WakeupClient</string>
+	<string name="tips">请点击“开始唤醒”后读出您资源所带的唤醒词（本示例为“你好搜狗”）。可通过编辑框填入唤醒词代替“语音唤醒”，按“√”确认。</string>
+</resources>

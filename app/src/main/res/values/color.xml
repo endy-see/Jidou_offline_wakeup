@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="speech_search_light_blue">#849bd7</color>
+	<color name="speech_search_deep_blue">#778dc7</color>
+	<color name="light_black">#a8abb4</color>
+	<color name="light_gray">#f2f5ff</color>
+</resources>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libencrypt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jiDou_Asr/libs/libencrypt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

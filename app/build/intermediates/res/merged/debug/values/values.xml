@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_black">#a8abb4</color>
+    <color name="light_gray">#f2f5ff</color>
+    <color name="speech_search_deep_blue">#778dc7</color>
+    <color name="speech_search_light_blue">#849bd7</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">WakeupClient</string>
+    <string name="tips">请点击“开始唤醒”后读出您资源所带的唤醒词（本示例为“你好搜狗”）。可通过编辑框填入唤醒词代替“语音唤醒”，按“√”确认。</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="WakeupButtonStyle">
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:layout_width">0dp</item>	
+		<item name="android:layout_weight">1</item>		
+		<item name="android:textSize">20sp</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:gravity">center</item>
+		<item name="android:background">@drawable/wakeup_tv_selector</item>
+	</style>
+</resources>

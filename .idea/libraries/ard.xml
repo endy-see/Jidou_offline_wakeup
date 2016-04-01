@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jiDou_Asr/libs/ard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

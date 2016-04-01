@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 170,
+                        "endColumn": 42,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 44,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 214,
+                        "endColumn": 41,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 57,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 114,
+                        "endColumn": 54,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 58,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 58,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 57,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 55,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 49,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 94,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 107,
+                        "endColumn": 91,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 57,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endLine": 19,
+                    "endColumn": 9,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 504
+                    }
+                }
+            }
+        ]
+    }
+]

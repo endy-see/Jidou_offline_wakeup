@@ -1,0 +1,99 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <com.sogou.speech.view.Title
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/search_head_bg" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/wakeupWordEditText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@android:color/white"
+                android:hint="编辑第二个唤醒词"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="10dp"
+                android:singleLine="true"
+                android:textColor="@android:color/black"
+                android:textSize="20sp" />
+
+            <RelativeLayout
+                android:id="@+id/resetLayout"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/home_btn_selector" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/inputview_ok" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@null"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/startTextView"
+            style="@style/WakeupButtonStyle"
+            android:text="开始唤醒" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@android:color/white" />
+
+        <Button
+            android:id="@+id/stopTextView"
+            style="@style/WakeupButtonStyle"
+            android:text="停止唤醒" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="@string/tips"
+        android:textColor="@color/light_black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/result_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text=""
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+</LinearLayout>

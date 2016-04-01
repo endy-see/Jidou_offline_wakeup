@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_selector.xml",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable\\home_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wakeup_tv_selector.xml",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable\\wakeup_tv_selector.xml"
+    }
+]

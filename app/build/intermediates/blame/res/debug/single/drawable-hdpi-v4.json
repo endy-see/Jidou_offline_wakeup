@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_head_bg.9.png",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable-hdpi\\search_head_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bg.9.png",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable-hdpi\\title_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_back.png",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable-hdpi\\title_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inputview_ok.png",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\drawable-hdpi\\inputview_ok.png"
+    }
+]

@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.sogou.speech.wakeupclient"
+        minSdkVersion 9
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile files('libs/sogou-libencrypt-v1.1.jar')
+    compile files('libs/sogou_ard_v1.0.jar')
+    compile files('libs/sogou_wakeup_v2.0.jar')
+}

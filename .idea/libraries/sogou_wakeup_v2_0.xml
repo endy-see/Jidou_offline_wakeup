@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sogou_wakeup_v2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/sogou_wakeup_v2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

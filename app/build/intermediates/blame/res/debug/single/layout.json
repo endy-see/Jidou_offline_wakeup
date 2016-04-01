@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wakeup_activity.xml",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\layout\\wakeup_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "E:\\AndroidStudio\\jidou_offline_wakeup\\jidou_wakeupclient_contains_service1\\app\\src\\main\\res\\layout\\title.xml"
+    }
+]

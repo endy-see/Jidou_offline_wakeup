@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\pre-dexed\debug\gson-2.2.4_ca315dfde2fca3ada925001ed779458f1838206b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa4f775ee45311bf19d4c3bf8e2f789593f58638">
+        <dex dex="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\pre-dexed\debug\classes_a8f7aeec8d69a0b62178496b85c8ef398da2d8d5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\libs\sogou_wakeup_v2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="eff6d4c8336b3148a451f6bc3897551e91556d12">
+        <dex dex="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\pre-dexed\debug\sogou_wakeup_v2.0_42df7157f167eec10482ba1ab46816cf7ed3ca2c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\libs\sogou_ard_v1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b7185afe3b7b14af8db8399e117552012a3e13ec">
+        <dex dex="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\pre-dexed\debug\sogou_ard_v1.0_d6d23078895be703dfe23588bf6b4dc72e9fab10.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\libs\sogou-libencrypt-v1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="eb56ac237211698ce0f8640d465f6b0bf0e59d26">
+        <dex dex="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\pre-dexed\debug\sogou-libencrypt-v1.1_be5beab1880485e54247fd8f849b338c234041f0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e2b05ee7c8740c8654622b3364a0615657d27043">
+        <dex dex="E:\AndroidStudio\jidou_offline_wakeup\jidou_wakeupclient_contains_service1\app\build\intermediates\pre-dexed\debug\instant-run_d6118a5714e06ea89b400fbb4b05d2f30a757b87.jar" />
+    </item>
+
+</items>
